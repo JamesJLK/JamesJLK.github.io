@@ -1,6 +1,5 @@
-# JamesJLK.github.io
-
 WGU D277 FrontEnd Web Development
+
 Task 2 Performance Assessment for WGU'S Front End Web Development course (D277). Made via VSCode.
 
 A. Create 4–10 web pages of content for your website with a main page that introduces the state of your choice and additional pages for the capital and two other cities located within the state. The information for the capital and each city can vary but must include the following:
