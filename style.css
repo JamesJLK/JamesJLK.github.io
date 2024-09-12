@@ -12,7 +12,7 @@ header {
 } 
 
 nav {
-    background-color: aqua;
+    background-color: orange;
     color: white;
 }
 
@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: red;
+    color: black;
     background-color: blue;
 }
 
