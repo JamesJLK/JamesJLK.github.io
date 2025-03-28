@@ -1,6 +1,3 @@
-WGU D277 FrontEnd Web Development
-
-Task 2 Performance Assessment for WGU'S Front End Web Development course (D277). Made via VSCode.
 
 A. Create 4–10 web pages of content for your website with a main page that introduces the state of your choice and additional pages for the capital and two other cities located within the state. The information for the capital and each city can vary but must include the following:
 
@@ -48,6 +45,8 @@ D. Add a form on one page of your website by doing the following:
 
 • Include text fields for the user’s first name, the user’s last name, and the user’s email address, as well as a confirmation field for the email address for verification purposes and a text box that allows the user to ask a question.
 • Ensure all fields contain placeholders.
+
+*Thanks for reading the readme of my first project ever!*
 
 Include JavaScript code that verifies the email fields match when a user enters a second email address.
 E. Upload your website to one of the hosting sites listed in the Web Links section. Your website must include the following components:
